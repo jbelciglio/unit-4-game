@@ -1,0 +1,34 @@
+* {
+    text-align: center;
+    
+}
+body {
+    background-color: antiquewhite;
+}
+
+.card-header {
+    background-color: cadetblue;
+}
+
+.lead {
+    text-align: center;
+}
+
+.jumbotron {
+    padding: 20px;
+    background-color: cadetblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+
+.card-header {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+
+}
+
+.crystal-image {
+    width: 225px;
+    height: 225px;
+    
+}
